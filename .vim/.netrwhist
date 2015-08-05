@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/zhangcongjie/generator-cos-project/java'
+let g:netrw_dirhist_2='/Users/zhangcongjie/demo/src/main/webapp/WEB-INF/views/page1'
+let g:netrw_dirhist_3='/Users/zhangcongjie/workspace/react-dynamicform'
+let g:netrw_dirhist_4='/Users/zhangcongjie/workspace/interview/.git'
+let g:netrw_dirhist_5='/Users/zhangcongjie/workspace/interview/src/static/js/candidate'

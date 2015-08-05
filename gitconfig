@@ -1,0 +1,14 @@
+[user]
+name = xxx
+email = xxx@xxx.com
+[color]
+ui = auto
+branch = auto
+diff = auto
+status = auto
+[alias]
+st = status
+di = diff	
+ci = commit
+co = checkout
+br = branch
